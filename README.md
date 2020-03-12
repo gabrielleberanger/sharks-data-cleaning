@@ -1,4 +1,4 @@
-## Shark Attacks - Data Cleaning
+## Creating a data cleaning pipeline on Australian shark attacks
 
 *This project was completed as part of my cursus at Ironhack (a 9-week intensive coding bootcamp).*
 
