@@ -1,0 +1,372 @@
+Year,Month,State,Location,Activity,Species,Provoked,InjuryLevel,HeadInjury,ArmInjury,LegInjury,TorsoInjury
+2016,9,VIC,beach,surfing,other,0,0,0,0,1,1
+2016,9,VIC,beach,surfing,other,0,0,0,0,0,0
+2016,9,WA,other,fishing,other,0,0,0,0,0,0
+2016,9,WA,other,surfing,other,0,0,0,0,0,0
+2016,7,WA,other,boating,white shark,0,0,0,0,0,0
+2016,7,NSW,beach,surfing,other,0,0,0,0,1,0
+2016,7,TAS,beach,surfing,other,0,0,0,0,1,0
+2016,7,QLD,other,fishing,other,1,2,0,0,1,0
+2016,7,QLD,other,fishing,other,1,0,0,0,0,0
+2016,6,WA,bay,diving,other,1,0,1,0,0,0
+2016,6,WA,other,diving,other,0,4,0,0,0,0
+2016,6,NSW,other,diving,bronze whaler shark,0,0,0,0,0,0
+2016,5,WA,beach,surfing,white shark,0,4,0,0,0,0
+2016,4,NSW,beach,swimming,wobbegong shark,0,3,0,0,1,0
+2016,3,NSW,beach,surfing,other,0,3,0,0,0,0
+2016,3,NSW,beach,surfing,other,0,0,0,0,0,0
+2016,3,SA,bay,fishing,other,0,3,0,0,1,0
+2016,2,QLD,island,other,other,0,0,0,0,1,0
+2016,2,NSW,beach,surfing,other,0,0,0,0,0,0
+2016,1,QLD,beach,surfing,wobbegong shark,0,2,0,0,1,0
+2016,1,QLD,island,other,other,0,2,0,0,1,0
+2016,1,QLD,island,diving,other,0,2,0,1,1,0
+2015,12,NSW,beach,surfing,bronze whaler shark,0,0,0,0,0,0
+2015,12,NSW,other,fishing,white shark,0,0,0,0,0,0
+2015,11,NSW,other,surfing,bull shark,0,0,0,0,0,0
+2015,10,WA,island,diving,other,0,1,0,0,0,0
+2015,10,WA,beach,surfing,other,0,0,0,0,1,0
+2015,9,QLD,island,snorkeling,other,0,2,0,0,1,0
+2015,9,NSW,beach,surfing,other,0,2,0,1,0,0
+2015,9,NSW,other,surfing,white shark,0,0,0,0,1,0
+2015,8,NSW,beach,surfing,other,0,3,0,0,1,0
+2015,7,NSW,other,surfing,white shark,0,3,0,1,1,0
+2015,7,TAS,island,diving,white shark,0,4,0,0,0,0
+2015,7,VIC,beach,surfing,bronze whaler shark,0,2,0,1,0,0
+2015,7,NSW,other,surfing,white shark,0,0,0,0,0,0
+2015,7,NSW,other,boarding,white shark,0,3,0,0,1,0
+2015,6,NSW,other,surfing,other,0,2,0,1,0,0
+2015,6,WA,island,swimming,wobbegong shark,1,2,1,1,0,0
+2015,5,NSW,beach,surfing,white shark,0,0,0,1,0,0
+2015,4,SA,bay,surfing,white shark,0,3,0,0,1,0
+2015,6,NSW,beach,surfing,white shark,0,0,0,0,0,0
+2015,4,NSW,beach,boarding,other,0,0,0,0,1,0
+2015,3,NSW,bay,fishing,other,0,1,0,0,0,0
+2015,2,NSW,beach,surfing,other,0,4,0,0,0,0
+2015,2,NSW,beach,surfing,other,0,3,0,0,1,0
+2015,2,NSW,beach,surfing,other,0,3,0,0,1,0
+2015,1,QLD,river,boating,bull shark,0,0,0,0,0,0
+2015,1,NSW,other,surfing,other,0,0,0,0,0,0
+2015,1,NSW,beach,fishing,other,0,0,0,0,0,0
+2015,1,NSW,beach,other,other,0,2,0,1,0,0
+2014,12,NSW,beach,surfing,other,0,2,0,0,1,0
+2014,12,WA,beach,diving,white shark,0,4,0,0,0,0
+2014,12,VIC,beach,fishing,other,1,2,0,0,1,0
+2014,12,QLD,reef,diving,other,0,4,0,0,0,0
+2014,11,WA,beach,surfing,other,0,1,0,0,1,0
+2014,11,WA,other,fishing,white shark,0,0,0,0,0,0
+2014,11,NSW,beach,surfing,other,0,1,0,0,1,0
+2014,10,NSW,other,surfing,other,1,2,0,0,1,0
+2014,10,NSW,beach,surfing,other,0,3,0,0,1,0
+2014,10,WA,other,boating,other,0,0,0,0,0,0
+2014,10,WA,beach,surfing,white shark,0,3,0,1,1,0
+2014,9,NSW,beach,swimming,other,0,4,0,0,0,0
+2014,8,WA,other,diving,other,0,2,1,0,0,0
+2014,6,SA,other,surfing,other,0,0,0,0,0,0
+2014,6,SA,other,boarding,other,0,2,0,0,1,0
+2014,6,WA,other,other,other,1,2,0,1,0,0
+2014,6,SA,beach,boarding,bronze whaler shark,0,1,0,0,0,1
+2014,6,NSW,beach,surfing,other,0,3,0,0,1,0
+2014,5,QLD,island,other,bull shark,0,2,0,0,1,0
+2014,5,NSW,other,other,other,1,0,0,1,0,0
+2014,5,SA,other,surfing,white shark,0,0,0,0,0,0
+2014,4,WA,bay,diving,other,0,1,0,0,0,0
+2014,4,NSW,other,swimming,white shark,0,4,0,0,0,0
+2014,3,VIC,beach,surfing,other,0,0,0,0,0,0
+2014,3,NSW,beach,swimming,wobbegong shark,0,2,0,0,1,0
+2014,2,SA,beach,diving,other,0,4,0,0,0,0
+2014,1,NSW,beach,fishing,other,1,2,0,1,0,0
+2013,12,NSW,beach,surfing,wobbegong shark,0,3,0,1,1,0
+2013,11,NSW,beach,boarding,tiger shark,0,4,0,0,0,0
+2013,11,WA,other,surfing,white shark,0,4,0,0,0,0
+2013,11,WA,beach,surfing,white shark,0,0,0,0,0,0
+2013,10,WA,bay,snorkeling,other,0,2,0,1,0,0
+2013,10,WA,island,diving,white shark,0,0,0,0,0,0
+2013,10,NSW,beach,surfing,wobbegong shark,0,0,0,0,1,0
+2013,10,WA,other,diving,white shark,0,0,1,0,0,1
+2013,8,NSW,other,other,other,0,2,1,1,0,0
+2013,7,VIC,other,surfing,other,0,0,0,0,0,0
+2013,6,NSW,beach,surfing,other,0,0,0,0,0,0
+2013,4,NSW,beach,fishing,other,1,2,0,0,1,0
+2013,4,NSW,other,fishing,other,0,3,0,0,1,0
+2013,3,WA,reef,diving,bronze whaler shark,0,2,0,1,0,0
+2013,1,VIC,other,fishing,white shark,0,0,0,0,0,0
+2013,1,QLD,other,surfing,other,0,2,0,0,0,0
+2013,1,WA,island,diving,other,0,2,0,0,1,0
+2012,12,NSW,reef,surfing,other,0,0,0,0,0,0
+2012,12,NSW,beach,boarding,bull shark,0,2,0,1,0,0
+2012,12,WA,beach,surfing,tiger shark,0,0,0,0,0,0
+2012,12,NSW,island,diving,tiger shark,0,3,0,0,1,0
+2012,10,WA,beach,boarding,other,0,0,0,0,0,0
+2012,8,WA,other,surfing,other,0,2,0,1,0,1
+2012,8,WA,reef,fishing,other,0,0,0,0,0,0
+2012,7,SA,bay,surfing,white shark,0,2,0,1,0,1
+2012,7,WA,island,surfing,white shark,0,4,0,0,0,0
+2012,6,TAS,bay,surfing,other,0,2,0,0,0,0
+2012,6,WA,beach,surfing,other,0,0,0,0,0,0
+2012,6,VIC,port,surfing,other,0,2,0,0,1,0
+2012,6,NSW,beach,surfing,white shark,0,0,0,0,0,0
+2012,4,SA,bay,boating,white shark,0,2,0,0,0,0
+2012,3,WA,beach,diving,white shark,0,4,0,0,0,0
+2012,3,WA,other,fishing,white shark,0,0,0,0,0,0
+2012,3,QLD,beach,surfing,bull shark,0,2,0,0,1,0
+2012,3,VIC,other,diving,other,1,2,1,0,0,0
+2012,2,NSW,island,fishing,other,0,2,0,0,1,0
+2012,2,QLD,other,surfing,other,0,0,0,0,0,0
+2012,1,WA,bay,snorkeling,tiger shark,0,2,1,1,0,0
+2012,1,NSW,beach,surfing,white shark,0,2,0,0,0,0
+2012,1,NSW,beach,surfing,other,0,0,1,1,0,0
+2012,1,QLD,other,diving,tiger shark,0,0,0,0,0,0
+2011,12,NSW,other,surfing,white shark,0,3,0,0,0,0
+2011,12,NSW,other,surfing,wobbegong shark,0,1,0,0,1,0
+2011,12,NSW,other,surfing,other,0,0,0,1,0,0
+2011,11,QLD,other,swimming,wobbegong shark,0,3,0,0,1,0
+2011,10,WA,island,diving,white shark,0,4,0,0,0,0
+2011,10,VIC,beach,diving,other,0,1,0,0,1,0
+2011,10,WA,beach,swimming,other,0,4,0,0,0,0
+2011,9,WA,bay,boarding,white shark,0,4,0,0,0,0
+2011,4,WA,other,fishing,other,0,2,0,0,1,0
+2011,3,NSW,other,surfing,bull shark,0,3,1,1,0,0
+2011,3,NSW,beach,boarding,other,0,3,1,1,0,0
+2011,3,NSW,beach,surfing,other,0,0,0,0,0,0
+2011,2,QLD,other,fishing,bull shark,1,2,0,1,0,0
+2011,2,SA,island,diving,white shark,0,4,0,0,0,0
+2011,2,QLD,beach,fishing,other,1,2,0,0,1,0
+2011,2,WA,other,snorkeling,other,0,2,0,1,0,0
+2011,1,WA,other,fishing,white shark,0,0,0,0,0,0
+2010,11,WA,island,fishing,white shark,0,0,0,0,0,0
+2010,10,WA,island,snorkeling,white shark,0,2,0,0,1,1
+2010,10,WA,beach,diving,other,0,0,1,0,0,0
+2010,10,WA,island,surfing,other,0,2,0,0,1,0
+2010,10,NSW,other,surfing,bull shark,0,2,0,0,1,0
+2010,9,NSW,reef,surfing,other,0,3,0,0,1,0
+2010,8,WA,bay,surfing,white shark,0,4,0,0,0,0
+2010,8,QLD,other,fishing,other,1,2,0,0,1,0
+2010,8,NSW,other,surfing,other,0,2,0,0,1,0
+2010,6,WA,beach,surfing,other,0,3,0,0,1,0
+2010,5,NSW,other,surfing,other,0,2,0,0,1,0
+2010,2,QLD,island,snorkeling,other,0,2,0,0,1,0
+2010,2,NSW,beach,surfing,wobbegong shark,0,2,0,0,1,0
+2010,2,NSW,beach,boarding,white shark,0,0,0,0,0,0
+2010,1,QLD,beach,surfing,other,0,0,0,0,0,0
+2010,1,VIC,other,surfing,other,0,2,0,1,0,0
+2010,1,QLD,island,snorkeling,other,0,2,0,0,1,0
+2009,12,NSW,beach,swimming,other,1,2,0,0,1,0
+2009,12,QLD,island,boating,other,0,0,0,0,0,0
+2009,12,QLD,reef,diving,bull shark,0,2,1,1,0,0
+2009,12,NSW,other,surfing,other,0,2,0,0,0,0
+2009,12,NSW,beach,boating,white shark,0,0,0,0,0,0
+2009,11,SA,other,boating,other,0,2,0,0,1,0
+2009,10,VIC,port,boating,white shark,0,0,0,0,0,0
+2009,10,NSW,other,boarding,other,0,0,1,0,0,0
+2009,10,WA,other,diving,bull shark,0,3,0,0,1,0
+2009,7,NSW,other,surfing,other,0,3,1,1,0,0
+2009,6,NSW,beach,surfing,other,0,2,0,1,0,0
+2009,4,NSW,bay,surfing,other,0,0,0,0,0,0
+2009,3,NSW,bay,surfing,bronze whaler shark,0,3,0,0,1,0
+2009,3,NSW,other,surfing,other,0,0,0,0,0,0
+2009,3,NSW,bay,surfing,other,0,0,0,0,0,0
+2009,3,WA,island,other,wobbegong shark,1,2,0,0,0,0
+2009,3,NSW,other,surfing,other,0,2,0,0,1,0
+2009,2,QLD,reef,fishing,other,0,3,0,1,0,0
+2009,2,NSW,beach,surfing,other,0,0,0,0,0,0
+2009,2,NSW,beach,surfing,white shark,0,3,0,1,0,0
+2009,2,NSW,other,surfing,bull shark,0,3,0,1,1,0
+2009,2,NSW,beach,surfing,white shark,0,0,0,0,0,0
+2009,2,NSW,other,surfing,other,0,0,0,0,0,0
+2009,1,NSW,beach,swimming,other,0,0,0,1,0,0
+2009,1,VIC,other,fishing,white shark,0,0,0,0,0,0
+2009,1,NSW,other,snorkeling,other,0,3,0,0,1,0
+2009,1,TAS,bay,surfing,white shark,0,3,0,0,1,0
+2009,1,NSW,beach,surfing,white shark,0,3,0,0,0,0
+2008,12,TAS,island,boating,other,0,0,0,0,0,0
+2008,12,NSW,other,boarding,other,0,0,0,0,0,0
+2008,12,NSW,reef,boating,white shark,0,0,0,0,0,0
+2008,12,WA,beach,snorkeling,white shark,0,4,0,0,0,0
+2008,12,NSW,other,fishing,white shark,0,2,0,0,0,0
+2008,11,SA,other,fishing,bronze whaler shark,0,0,0,0,0,0
+2008,10,NSW,other,diving,other,1,2,1,0,0,0
+2008,10,NT,other,fishing,other,1,0,0,0,1,0
+2008,10,NSW,other,surfing,other,0,0,0,0,0,0
+2008,9,NT,island,swimming,bronze whaler shark,1,2,0,1,0,0
+2008,9,NSW,beach,surfing,other,0,0,0,0,0,0
+2008,8,NSW,beach,surfing,other,0,0,0,0,0,0
+2008,7,VIC,beach,surfing,white shark,0,0,0,0,0,0
+2008,5,WA,other,swimming,white shark,0,3,0,0,1,0
+2008,4,NSW,other,other,tiger shark,0,0,0,0,0,0
+2008,4,NSW,beach,boarding,bull shark,0,4,0,0,0,0
+2008,2,NSW,bay,surfing,other,0,1,0,1,0,0
+2008,1,QLD,other,other,other,1,2,0,0,1,0
+2007,12,NSW,beach,surfing,other,0,3,0,0,1,0
+2007,12,QLD,island,swimming,other,0,2,0,1,0,0
+2007,11,WA,other,fishing,other,1,1,0,1,0,0
+2007,11,NSW,beach,surfing,other,0,0,0,0,0,0
+2007,10,NSW,bay,surfing,white shark,0,2,0,1,0,0
+2007,10,QLD,reef,diving,bronze whaler shark,0,2,0,0,1,0
+2007,7,CC,island,other,bronze whaler shark,0,2,0,0,1,0
+2007,6,NSW,beach,surfing,other,0,2,0,0,1,0
+2007,5,WA,beach,other,other,0,2,0,0,1,0
+2007,5,VIC,other,surfing,other,0,0,0,0,1,0
+2007,4,QLD,island,swimming,other,0,0,0,0,1,0
+2007,3,NSW,beach,surfing,other,0,2,0,1,0,0
+2007,3,QLD,other,swimming,other,0,2,0,1,1,0
+2007,2,NSW,beach,boarding,other,0,2,0,0,1,0
+2007,1,NSW,other,diving,white shark,0,2,1,0,0,1
+2007,1,NSW,beach,surfing,other,0,0,0,0,0,0
+2006,12,VIC,beach,surfing,other,0,2,0,0,1,0
+2006,12,WA,beach,boarding,white shark,0,3,0,0,1,0
+2006,8,SA,island,surfing,bronze whaler shark,0,0,0,0,0,0
+2006,6,SA,other,surfing,white shark,0,0,0,0,0,0
+2006,5,QLD,beach,snorkeling,wobbegong shark,1,3,0,0,0,1
+2006,4,NSW,beach,surfing,bronze whaler shark,0,2,0,0,1,0
+2006,3,NSW,other,surfing,bronze whaler shark,0,0,0,0,0,0
+2006,2,QLD,beach,other,other,0,2,0,0,1,0
+2006,2,QLD,bay,swimming,other,0,3,0,1,0,0
+2006,2,SA,beach,fishing,white shark,0,0,0,0,0,0
+2006,1,WA,beach,diving,white shark,0,2,0,1,0,0
+2006,1,QLD,island,swimming,bull shark,0,4,0,0,0,0
+2005,12,QLD,reef,diving,other,0,2,1,1,0,0
+2005,12,SA,beach,fishing,white shark,0,0,0,0,0,0
+2005,11,VIC,other,fishing,white shark,0,0,0,0,0,0
+2005,11,VIC,other,surfing,other,0,2,0,0,1,0
+2005,9,NSW,bay,surfing,tiger shark,0,0,0,0,0,0
+2005,9,SA,island,surfing,white shark,0,2,0,0,1,0
+2005,9,WA,beach,surfing,bronze whaler shark,0,0,0,0,0,0
+2005,9,NSW,beach,other,other,0,2,0,0,1,0
+2005,9,SA,bay,surfing,white shark,0,2,0,1,0,0
+2005,8,SA,other,diving,white shark,0,4,0,0,0,0
+2005,5,QLD,other,diving,other,0,3,0,0,1,0
+2005,4,NSW,other,fishing,other,1,2,0,0,0,0
+2005,4,NSW,other,other,other,0,2,0,0,0,0
+2005,4,NT,island,diving,other,0,1,1,0,0,0
+2005,4,NSW,beach,surfing,bronze whaler shark,0,0,0,0,0,0
+2005,3,NSW,other,surfing,other,0,0,0,0,0,0
+2005,3,WA,island,snorkeling,white shark,0,4,0,0,0,0
+2005,2,QLD,river,swimming,bull shark,0,2,0,1,0,0
+2005,1,VIC,bay,diving,other,1,0,1,0,0,0
+2005,1,VIC,other,boating,bronze whaler shark,1,0,0,0,0,0
+2004,12,SA,beach,surfing,white shark,0,4,0,0,0,0
+2004,12,QLD,reef,diving,bull shark,0,4,0,0,1,0
+2004,10,NSW,beach,surfing,bronze whaler shark,0,2,0,0,1,0
+2004,9,QLD,reef,diving,tiger shark,0,0,0,0,0,0
+2004,8,NSW,bay,diving,other,0,3,0,0,1,0
+2004,7,WA,beach,fishing,white shark,0,0,1,0,0,0
+2004,7,WA,beach,surfing,other,0,4,0,0,1,1
+2004,6,WA,other,boarding,bronze whaler shark,0,2,0,0,1,0
+2004,4,NSW,reef,diving,wobbegong shark,0,3,0,1,0,0
+2004,3,WA,other,diving,bronze whaler shark,0,2,0,0,1,0
+2004,2,NSW,beach,swimming,other,0,2,0,0,0,0
+2004,2,NSW,beach,snorkeling,other,0,2,0,0,1,0
+2004,1,WA,other,diving,white shark,0,2,0,0,1,0
+2004,1,NSW,other,diving,other,0,0,0,0,0,0
+2004,0,WA,beach,surfing,other,0,0,0,0,0,0
+2003,12,VIC,beach,surfing,other,0,0,0,0,1,0
+2003,11,WA,river,swimming,wobbegong shark,0,2,0,0,0,0
+2003,11,WA,river,swimming,wobbegong shark,0,2,0,1,1,0
+2003,11,NSW,other,other,other,0,2,0,0,1,0
+2003,10,NSW,beach,surfing,other,0,2,0,0,1,0
+2003,7,NT,other,surfing,other,0,0,0,0,0,0
+2003,2,SA,beach,other,other,0,2,0,0,1,0
+2003,2,NSW,bay,swimming,other,0,3,0,0,1,0
+2003,2,QLD,other,swimming,bull shark,0,4,0,0,0,0
+2003,1,WA,beach,surfing,bronze whaler shark,0,0,0,0,0,0
+2002,12,QLD,bay,snorkeling,other,0,2,0,1,0,0
+2002,12,QLD,other,diving,wobbegong shark,0,2,0,0,0,0
+2002,12,QLD,other,swimming,bull shark,0,4,0,0,0,0
+2002,6,QLD,beach,surfing,other,0,1,0,0,1,0
+2002,5,NT,other,fishing,other,1,0,0,1,0,0
+2002,4,SA,bay,surfing,white shark,0,4,0,0,1,1
+2002,4,NSW,beach,swimming,other,0,2,0,0,1,0
+2002,2,QLD,beach,surfing,other,0,2,0,0,1,0
+2002,2,NSW,river,boating,other,0,2,0,0,0,1
+2002,1,NSW,other,surfing,tiger shark,0,1,0,0,0,0
+2002,1,WA,river,swimming,other,0,0,0,0,0,0
+2001,11,NSW,beach,surfing,bronze whaler shark,0,0,0,0,0,0
+2001,10,QLD,other,snorkeling,bronze whaler shark,0,2,1,1,0,0
+2001,9,QLD,bay,other,white shark,0,0,0,0,0,0
+2001,5,NSW,other,surfing,other,0,2,0,0,0,1
+2001,4,NSW,beach,snorkeling,wobbegong shark,1,2,0,1,0,0
+2001,4,NSW,river,surfing,bronze whaler shark,0,2,0,0,1,0
+2001,2,WA,other,fishing,white shark,0,0,0,0,0,0
+2001,2,NSW,other,surfing,bronze whaler shark,0,2,0,0,1,0
+2001,1,NSW,other,boating,other,0,0,0,0,0,0
+2001,1,SA,other,fishing,white shark,0,0,0,0,0,0
+2000,12,QLD,other,diving,other,0,2,0,1,0,0
+2000,12,SA,port,fishing,white shark,0,0,0,0,0,0
+2000,12,QLD,reef,diving,bronze whaler shark,0,2,1,1,0,0
+2000,11,QLD,island,diving,tiger shark,0,0,0,0,0,0
+2000,11,WA,beach,swimming,white shark,0,2,0,0,1,0
+2000,11,WA,beach,swimming,white shark,0,4,0,0,1,1
+2000,10,QLD,island,fishing,white shark,0,0,0,0,0,0
+2000,9,SA,other,surfing,white shark,0,4,0,0,0,0
+2000,9,SA,beach,surfing,white shark,0,4,0,0,0,0
+2000,9,NSW,other,other,other,1,2,0,0,1,0
+2000,3,QLD,beach,swimming,other,0,2,0,0,1,0
+2000,3,NSW,beach,surfing,tiger shark,0,0,0,0,0,0
+2000,3,NSW,river,boating,other,0,0,0,0,0,0
+2000,3,NSW,river,boating,other,0,0,0,0,0,0
+2000,3,NSW,bay,swimming,other,0,0,0,0,0,0
+2000,2,SA,beach,surfing,other,0,2,0,1,0,0
+1999,5,SA,bay,surfing,white shark,0,4,0,0,0,0
+1999,2,NSW,other,surfing,tiger shark,0,2,1,1,0,0
+1998,12,SA,beach,other,other,0,3,0,0,1,0
+1998,12,SA,beach,surfing,other,0,0,0,0,1,0
+1998,6,SA,island,diving,white shark,0,4,0,0,1,0
+1998,1,SA,beach,surfing,other,0,3,0,0,1,0
+1997,11,WA,other,diving,white shark,0,2,0,1,0,0
+1997,10,WA,beach,surfing,white shark,0,2,0,0,0,0
+1997,7,QLD,beach,surfing,other,0,2,0,0,1,0
+1997,2,QLD,river,swimming,other,0,2,0,0,1,0
+1997,2,QLD,other,diving,tiger shark,0,2,0,1,0,0
+1997,2,NSW,other,boating,other,0,1,0,0,0,0
+1997,1,QLD,beach,snorkeling,other,0,3,0,0,1,0
+1997,1,WA,other,surfing,tiger shark,0,4,0,0,0,0
+1997,1,VIC,island,other,white shark,0,0,0,0,0,0
+1996,12,QLD,beach,surfing,other,0,0,0,0,0,0
+1996,6,VIC,other,surfing,white shark,0,0,0,0,0,0
+1996,4,NSW,other,swimming,wobbegong shark,0,3,0,0,0,0
+1996,4,NSW,other,swimming,wobbegong shark,0,3,0,0,1,0
+1996,3,QLD,island,swimming,tiger shark,0,2,0,1,1,0
+1996,3,NSW,island,fishing,other,0,2,0,0,1,0
+1996,2,NSW,river,diving,bronze whaler shark,0,2,0,0,1,0
+1996,2,NSW,beach,swimming,other,0,0,0,0,1,0
+1996,1,QLD,other,swimming,bronze whaler shark,0,2,0,0,1,0
+1996,1,WA,island,other,other,0,0,0,0,0,0
+1996,1,NSW,reef,other,other,0,0,0,0,0,0
+1995,11,QLD,island,other,other,0,0,0,0,0,0
+1995,10,QLD,bay,other,other,0,2,0,0,0,0
+1995,9,WA,island,diving,white shark,0,4,1,1,0,0
+1995,5,WA,island,other,other,0,0,0,0,0,0
+1995,4,NSW,other,diving,wobbegong shark,0,0,0,0,0,0
+1995,3,NSW,island,surfing,other,0,0,0,0,0,0
+1995,3,SA,beach,surfing,bronze whaler shark,0,2,0,1,0,0
+1995,0,QLD,reef,snorkeling,other,1,0,0,0,0,0
+1994,1,WA,other,fishing,white shark,0,0,0,0,0,0
+1994,1,QLD,river,boarding,other,0,2,0,0,0,0
+1993,11,WA,bay,diving,tiger shark,0,4,0,0,0,0
+1993,8,WA,island,fishing,white shark,0,0,0,0,0,0
+1993,6,NSW,bay,diving,white shark,0,4,0,0,0,0
+1993,6,TAS,island,diving,white shark,0,4,0,0,0,0
+1993,2,QLD,other,fishing,bronze whaler shark,1,3,0,1,1,0
+1993,1,QLD,island,diving,other,0,2,1,1,0,0
+1992,10,NSW,beach,diving,other,0,1,0,0,0,0
+1992,10,QLD,beach,surfing,white shark,0,4,0,0,0,0
+1992,8,SA,bay,surfing,white shark,0,2,0,0,0,0
+1992,3,VIC,other,surfing,bronze whaler shark,0,2,0,1,0,0
+1992,1,NSW,other,boarding,bronze whaler shark,0,2,0,0,1,0
+1991,11,WA,beach,boarding,other,0,2,0,0,1,0
+1991,9,SA,beach,diving,white shark,0,4,0,0,0,0
+1991,8,QLD,other,other,other,1,2,1,1,0,0
+1991,3,NSW,other,diving,other,0,2,0,1,1,0
+1991,1,QLD,other,swimming,other,0,2,0,1,1,0
+1991,1,WA,other,surfing,other,0,0,0,0,0,0
+1991,1,QLD,other,surfing,other,0,0,0,0,0,0
+1990,11,QLD,river,swimming,other,0,2,0,1,1,1
+1990,10,QLD,other,swimming,other,0,2,0,0,1,0
+1990,10,SA,beach,surfing,other,0,2,0,0,1,0
+1990,5,QLD,reef,snorkeling,other,0,2,0,0,0,0
+1990,5,QLD,reef,snorkeling,other,0,2,0,0,0,0
+1990,4,QLD,beach,surfing,tiger shark,0,2,0,0,0,0
+1990,4,QLD,reef,diving,other,0,4,0,0,0,0
+1990,4,QLD,beach,surfing,other,0,0,0,0,0,0
+1990,4,QLD,beach,surfing,other,0,0,0,0,0,0
