@@ -40,6 +40,6 @@ It is composed of **12 columns**:
 - **Simplify information by dividing content between separate columns** (1 column = 1 dimension) **and using booleans** (e.g. the *InjuryLevel*, *HeadInjury*, *ArmInjury*, *LegInjury* and *TorsoInjury* columns were created from the *Injury* column, and the last 4 are booleans)
 - **Merge columns if they contain overlapping information** (e.g. the *Fatal* and *InjuryLevel* columns were merged : an *InjuryLevel* of 4 represents a fatal shark incident).
 
-#### KEY TAKEAWAYS
+#### MAIN LIBRARIES
 
 Pandas
